@@ -1,18 +1,18 @@
 {
-    "name": "josiasmontag/laravel-redis-mock",
-    "description": "This Laravel package provides a Redis mock for your tests",
+    "name": "awilliams219/lumen-redis-mock",
+    "description": "This Lumen package provides a Redis mock for your tests",
     "keywords": [
         "localization",
         "language",
         "laravel",
         "php"
     ],
-    "homepage": "https://github.com/josiasmontag/laravel-redis-mock",
+    "homepage": "https://github.com/awilliams219/lumen-redis-mock",
     "license": "MIT",
     "authors": [
         {
-            "name": "Josias Montag",
-            "email": "josias@montag.info"
+            "name": "Adam Williams",
+            "email": "adam.williams@nationwidegroup.org"
         }
     ],
     "require": {
